@@ -18,6 +18,6 @@
 
 <div align="center">
   <a href="https://instagram.com/a_hex_n?igshid=NTc4MTIwNjQ2YQ==">
-    <img src="https://img.shields.io/badge/Follow%20%40harshitethic-Follow%20on%20Instagram-833AB4?logo=instagram&style=for-the-badge" alt="Instagram follow button">
+    <img src="https://img.shields.io/badge/Follow%20%40hex-Follow%20on%20Instagram-833AB4?logo=instagram&style=for-the-badge" alt="Instagram follow button">
   </a>
 </div>
